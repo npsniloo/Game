@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Connect4GameV2",
   "resources": {
-    "hash": "sha256-Fe9GAbxIJZiHQctsTm9Qw4Y41qXSKXXER2UhFDt1B9M=",
+    "hash": "sha256-jRhQ52R+Ay6IFOZEqs4FRmsX0anM0fda1XdcdaCyI68=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.6huxnlvnfr.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.8jbma652u7.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -34,7 +34,7 @@
       "System.Text.Json.h6jruwiato.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.qhcsf9u1lx.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.q9mky3ygn2.wasm": "System.Private.CoreLib.wasm",
-      "Connect4GameV2.hlfuwf2xk7.wasm": "Connect4GameV2.wasm",
+      "Connect4GameV2.lm4nmnvpcj.wasm": "Connect4GameV2.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.50iqa8w3ys.js": "dotnet.native.js",
       "dotnet.native.pk43x8e436.wasm": "dotnet.native.wasm",
@@ -91,7 +91,7 @@
       "System.Text.Encodings.Web.yosxql6jn5.wasm": "sha256-fgKqJw0Vkd2XqqB/Aj8WLXZK9/DPfEX9FcsrTzQTRFU=",
       "System.Text.Json.h6jruwiato.wasm": "sha256-J2h8It3KEE7eVU+nR3IyBWHVxVMv0KvA7MTuDKKmYtc=",
       "System.Text.RegularExpressions.qhcsf9u1lx.wasm": "sha256-wn7A6lyHyUX6ncCXE68PB0fgNpaI8xcNLGHt7qHCuQo=",
-      "Connect4GameV2.hlfuwf2xk7.wasm": "sha256-izkiMRd6wnHebMy5xSVM2K8fuO2ZXwIGAOkdk2OXT4g="
+      "Connect4GameV2.lm4nmnvpcj.wasm": "sha256-LTnYPXMUAmVzcSrUQ9z2mtMqAATS1B3tF3MGIfJ/lkQ="
     }
   },
   "cacheBootResources": true,
