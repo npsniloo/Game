@@ -1,13 +1,13 @@
 self.assetsManifest = {
-  "version": "HRCx7kaB",
+  "version": "B0noBDzt",
   "assets": [
     {
       "hash": "sha256-QjQkoB070Mh1wp8CVGMXkZ+Xtehyu7Ijqt+o6vjqHik=",
       "url": "Connect4GameV2.styles.css"
     },
     {
-      "hash": "sha256-LTnYPXMUAmVzcSrUQ9z2mtMqAATS1B3tF3MGIfJ/lkQ=",
-      "url": "_framework/Connect4GameV2.lm4nmnvpcj.wasm"
+      "hash": "sha256-izkiMRd6wnHebMy5xSVM2K8fuO2ZXwIGAOkdk2OXT4g=",
+      "url": "_framework/Connect4GameV2.hlfuwf2xk7.wasm"
     },
     {
       "hash": "sha256-irO6G9br+xYCRADTJyl7oXBmSrriUZoG0InvKUfVV0M=",
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.qhcsf9u1lx.wasm"
     },
     {
-      "hash": "sha256-0EpIvw33plI25S1qEFj4ddRZTeE4VigVgv2Q/tPwgNA=",
+      "hash": "sha256-dRj6B2TOd7IvgKAeIxMrGVuYB+MtcnXRUVjd98sC/3M=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -186,7 +186,7 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-YiFFXD/zynymKeRzFpA1YtzRH1OH2cFNhLNPmDn9RVk=",
+      "hash": "sha256-u5vE7JHNoZdMs1G/9AmoBcz57eaqscM59/VOVMg/lTU=",
       "url": "index.html"
     },
     {
@@ -366,7 +366,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "hash": "sha256-0K1S2sei0bJzIaCcpWPfEyi2s7vIuXY1r6D6pYyOycg=",
+      "hash": "sha256-r3iL4GuZUzMd5FKmjjgbvFu2AtQxHI4SG+grBglOU6g=",
       "url": "manifest.webmanifest"
     },
     {
