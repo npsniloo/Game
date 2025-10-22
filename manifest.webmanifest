@@ -1,6 +1,6 @@
 {
-  "name": "Connect4GameV2",
-  "short_name": "Connect4GameV2",
+  "name": "BlazorWebAssemblySample",
+  "short_name": "BlazorWebAssemblySample",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
