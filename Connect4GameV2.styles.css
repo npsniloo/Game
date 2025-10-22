@@ -1,4 +1,4 @@
-/* Game/Components/Board.razor.rz.scp.css */
+/* /Components/Board.razor.rz.scp.css */
 .game-container[b-gca9xcz1hg] {
     max-width: 700px;
     margin: 0 auto;
@@ -127,7 +127,7 @@
         font-size: 1.2rem;
     }
 }
-/* Game/Layout/MainLayout.razor.rz.scp.css */
+/* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-bes15fscwi] {
     position: relative;
     display: flex;
@@ -205,7 +205,7 @@ main[b-bes15fscwi] {
         padding-right: 1.5rem !important;
     }
 }
-/* Game/Layout/NavMenu.razor.rz.scp.css */
+/* /Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-86mm8h72sw] {
     background-color: rgba(255, 255, 255, 0.1);
 }
