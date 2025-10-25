@@ -289,3 +289,86 @@ main[b-bes15fscwi] {
         overflow-y: auto;
     }
 }
+/* /Pages/Home.razor.rz.scp.css */
+/* Combined Game Level Button */
+.level-btn[b-4j8ovafbxp] {
+    font-family: 'Arial', sans-serif;
+    font-size: 1rem; /* Size of the level text */
+    padding: 10px 20px;
+    border-radius: 25px; /* Rounded edges */
+    text-transform: uppercase;
+    background-color: #f1f1f1; /* Light gray background */
+    color: #4A90E2; /* Highlighted soft blue color */
+    font-weight: bold;
+    border: 2px solid #4A90E2; /* Blue border for emphasis */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+}
+
+    /* Hover Effect for the Level Button */
+    .level-btn:hover[b-4j8ovafbxp] {
+        background-color: #4A90E2;
+        color: white;
+        cursor: pointer;
+    }
+
+    /* Pencil Icon */
+    .level-btn i[b-4j8ovafbxp] {
+        font-size: 1.1rem;
+        transition: transform 0.3s ease;
+    }
+
+    /* Hover effect for pencil icon */
+    .level-btn:hover i[b-4j8ovafbxp] {
+        transform: translateX(5px);
+    }
+
+    /* Focus effect */
+    .level-btn:focus[b-4j8ovafbxp] {
+        outline: none;
+        box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.5);
+    }
+
+.text-center h3[b-4j8ovafbxp] {
+    font-family: 'Roboto', sans-serif; /* More polished font */
+    font-size: 1.75rem; /* Adjusted size for better visibility */
+    color: #333; /* Dark gray for a softer, readable tone */
+    font-weight: 500; /* Semi-bold for a clean yet soft look */
+    margin-bottom: 20px; /* Adds space below the text */
+    text-align: center; /* Ensure it's centered */
+}
+
+/* Make sure buttons below are also centered and have appropriate spacing */
+.btn-group[b-4j8ovafbxp] {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+    /* Adjust button styles for consistency */
+    .btn-group .btn[b-4j8ovafbxp] {
+        font-size: 1.25rem; /* Button text size */
+        padding: 12px 20px; /* Button padding */
+        border-radius: 30px;
+        transition: all 0.3s ease;
+    }
+/* Ensure that the "Choose your level" sentence is centered */
+.ml-auto.text-center[b-4j8ovafbxp] {
+    text-align: center; /* Ensures the text is aligned to the center */
+    width: 100%; /* Makes sure the content spans the entire width */
+}
+
+/* Button Group Centering */
+.btn-group[b-4j8ovafbxp] {
+    display: flex;
+    justify-content: center; /* Ensures the buttons are centered horizontally */
+    width: 100%; /* Ensures the button group spans the entire width */
+}
+
+    /* Added some margin for better spacing */
+    .btn-group .btn[b-4j8ovafbxp] {
+        margin: 5px;
+    }

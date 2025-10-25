@@ -1,17 +1,13 @@
 self.assetsManifest = {
-  "version": "sfCyK9r0",
+  "version": "wJt1A7oM",
   "assets": [
     {
-      "hash": "sha256-QjQkoB070Mh1wp8CVGMXkZ+Xtehyu7Ijqt+o6vjqHik=",
+      "hash": "sha256-lAw3psyxH0aKPftyqgoHkpJSZ+2dMXlkLzRzlgRroOM=",
       "url": "Connect4GameV2.styles.css"
     },
     {
-      "hash": "sha256-LTnYPXMUAmVzcSrUQ9z2mtMqAATS1B3tF3MGIfJ/lkQ=",
-      "url": "_framework/Connect4GameV2.lm4nmnvpcj.wasm"
-    },
-    {
-      "hash": "sha256-irO6G9br+xYCRADTJyl7oXBmSrriUZoG0InvKUfVV0M=",
-      "url": "_framework/Microsoft.AspNetCore.Components.6huxnlvnfr.wasm"
+      "hash": "sha256-+ettUo5v2FA4A4DhsnNnRCbndVGrn6I0WXpo0Go8tx8=",
+      "url": "_framework/Connect4GameV2.5x1xca3936.wasm"
     },
     {
       "hash": "sha256-HCreRkRlU5j60KU0lpwzp9s0xbmcwgdraIYUec3SeQM=",
@@ -20,6 +16,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-fjQLv7QBHIpcSwll79hiQkBjYbjlubHRq6aKLOvoAVQ=",
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.6q1jpjgfcs.wasm"
+    },
+    {
+      "hash": "sha256-en8Db+UjIlYBv7Vd3bcze6WIdKTByU5J2DzFVMprpE8=",
+      "url": "_framework/Microsoft.AspNetCore.Components.m5npqpyvby.wasm"
     },
     {
       "hash": "sha256-SvqIqLTJFeFnn2GyYARDkqvF//mAgsCnCMAO0bMqo60=",
@@ -114,12 +114,12 @@ self.assetsManifest = {
       "url": "_framework/System.Private.Uri.kjyi95avv6.wasm"
     },
     {
-      "hash": "sha256-uUyRO3F7W3hslaAqiVa2FteANjcjEWsqKPFOkLI0ruQ=",
-      "url": "_framework/System.Runtime.9sssc4b0l5.wasm"
-    },
-    {
       "hash": "sha256-wqfILadLLKdooVusvPcbEZBkeJ+9Yu23S7S8YQQEyLY=",
       "url": "_framework/System.Runtime.InteropServices.JavaScript.q2qvulo9k9.wasm"
+    },
+    {
+      "hash": "sha256-5GdO+T7SH+sw3bthcfjUbS4/jM+7CPTf8aIrVIyO2vk=",
+      "url": "_framework/System.Runtime.wpovdvlexn.wasm"
     },
     {
       "hash": "sha256-fgKqJw0Vkd2XqqB/Aj8WLXZK9/DPfEX9FcsrTzQTRFU=",
@@ -134,7 +134,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.qhcsf9u1lx.wasm"
     },
     {
-      "hash": "sha256-0EpIvw33plI25S1qEFj4ddRZTeE4VigVgv2Q/tPwgNA=",
+      "hash": "sha256-JJWqI6Sroczkkf6GoNPp67A3G+HHnQlthwuMnFb8nsI=",
       "url": "_framework/blazor.boot.json"
     },
     {
